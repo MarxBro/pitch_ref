@@ -6,6 +6,8 @@ Referencia de alturas, nombres, hertz y número MIDI del sonido que representan.
 
 __Este programa -es tonto y- genera esta salida__:
 
+```bash
+
   G -- midi 127 -- 12543.854 Hz
  F# -- midi 126 -- 11839.822 Hz
   F -- midi 125 -- 11175.303 Hz
@@ -114,7 +116,7 @@ __Este programa -es tonto y- genera esta salida__:
  Bb -- midi  22 -- 29.135 Hz
   A -- midi  21 -- 27.500 Hz
 
-
+```
 
 Y eso es todo,..
 
