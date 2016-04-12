@@ -1,6 +1,10 @@
 #!/usr/bin/perl
 #######################################################################
+# Referencias de alturas, nombres, MIDI y Hertz correspondientes al
+# temperamento igual.
+######################################################################
 use feature "say";
+
 my @nombres = qw( A Bb B C C# D Eb E F F# G G# );
 
 foreach my $n (reverse(1..107)){
